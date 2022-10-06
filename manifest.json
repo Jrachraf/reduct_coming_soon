@@ -1,11 +1,11 @@
 {
-    "name": "reduct_coming_soon",
-    "short_name": "reduct_coming_soon",
+    "name": "reduct_coming",
+    "short_name": "reduct_coming",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Coming Soon",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
